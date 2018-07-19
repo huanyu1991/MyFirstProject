@@ -1,0 +1,19 @@
+c:\users\daxia.yu\documents\visual studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\bin\x64\Debug\DataGridValidationTest.exe.config
+c:\users\daxia.yu\documents\visual studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\bin\x64\Debug\DataGridValidationTest.exe
+c:\users\daxia.yu\documents\visual studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\bin\x64\Debug\DataGridValidationTest.pdb
+C:\Users\daxia.yu\Documents\UIH\bin\DataGridValidationTest.exe.config
+C:\Users\daxia.yu\Documents\UIH\bin\DataGridValidationTest.exe
+C:\Users\daxia.yu\Documents\UIH\bin\DataGridValidationTest.pdb
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\MainWindow.g.cs
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\App.g.cs
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest_MarkupCompile.cache
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest_MarkupCompile.lref
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\MainWindow.baml
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest.g.resources
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest.Properties.Resources.resources
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest.exe
+C:\Users\daxia.yu\Documents\Visual Studio 2010\Projects\DataGridValidationTest\DataGridValidationTest\obj\x64\Debug\DataGridValidationTest.pdb
